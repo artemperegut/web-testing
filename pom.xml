@@ -8,6 +8,10 @@
     <artifactId>web-testing</artifactId>
     <version>1.0</version>
 
+    <properties>
+        <jdk.version>1.8</jdk.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -23,5 +27,5 @@
         </dependency>
 
     </dependencies>
-    
+
 </project>
